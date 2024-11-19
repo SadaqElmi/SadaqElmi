@@ -4,17 +4,17 @@
 🌟 About Me
 I'm a passionate and dedicated Full-Stack Developer with experience in building dynamic, scalable, and user-centric applications. My expertise spans across front-end and back-end development, ensuring seamless integration and optimal performance.
 
- Technologies & Tools:
+## Technologies & Tools:
 Frontend: React.js, Nextjs , TypeScript ,  HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap
 Backend: Node.js, Express.js,
 Database: MongoDB,
 Other Tools: Git,   REST APIs, Postman , AdobeXD 
 
-Currently Learning:
+## Currently Learning:
 Advanced Python development ,  Firebase ,  Django
 Best practices in system design
 
-🔥 My Highlights
+## 🔥 My Highlights
 💻 Open Source Enthusiast: Contributing to projects that make a difference.
 🌟 Team Player: Collaborating with cross-functional teams to deliver impactful solutions.
 🚀 Problem Solver: Continuously solving challenges in web development.
@@ -27,6 +27,7 @@ Best practices in system design
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 ## 📈 GitHub Stats
