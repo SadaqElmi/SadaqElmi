@@ -12,6 +12,7 @@ Other Tools: Git,   REST APIs, Postman , AdobeXD
 
 ## Currently Learning:
 Advanced Python development ,  Firebase ,  Django
+React native
 Best practices in system design
 
 ## 🔥 My Highlights
